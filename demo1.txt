@@ -1,2 +1,2 @@
 line 1 added
-line 2 added by client
+line 2 added after conflict
